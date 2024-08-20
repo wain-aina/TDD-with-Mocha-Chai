@@ -1,0 +1,15 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "mocha-chai": "file:"
+  }
+}
